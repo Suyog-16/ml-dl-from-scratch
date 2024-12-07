@@ -14,8 +14,8 @@ Implementing core machine learning algorithms from scratch to gain deep understa
 
 ## Setup
 ```bash
-git clone https://github.com/yourusername/ml-algorithms.git
-cd ml-algorithms
+git clone https://github.com/Suyog-16/ml-from-scratch.git
+cd ml-from-scratch
 pip install -r requirements.txt
 ```
 
