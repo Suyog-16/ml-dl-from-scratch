@@ -15,10 +15,10 @@
 ---
 
 ### 🔹 **Activation Functions**  
-- [ ] Sigmoid  
-- [ ] Tanh  
-- [ ] ReLU  
-- [ ] Leaky ReLU  
+- [] Sigmoid  
+- [] Tanh  
+- [x] ReLU  
+- [] Leaky ReLU  
 - [ ] Softmax  
 
 ---
