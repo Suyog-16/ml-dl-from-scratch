@@ -24,9 +24,9 @@
 ---
 
 ### 🔹 **Loss Functions**  
-- [ ] Mean Squared Error (MSE)  
-- [ ] Binary Cross-Entropy  
-- [ ] Categorical Cross-Entropy  
+- [x] Mean Squared Error (MSE)  
+- [x] Binary Cross-Entropy  
+- [x] Categorical Cross-Entropy  
 - [ ] Huber Loss  
 - [ ] KL Divergence  
 
