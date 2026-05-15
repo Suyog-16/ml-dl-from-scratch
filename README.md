@@ -4,11 +4,11 @@
 ## ✅ Progress Tracker  
 ### 🔹 **Machine Learning Algorithms**  
 - [x] Linear Regression  
-- [ ] Logistic Regression  
+- [x] Logistic Regression  
 - [ ] Decision Tree  
 - [ ] Random Forest  
 - [ ] K-Nearest Neighbors (KNN)  
-- [ ] Naive Bayes  
+- [x] Naive Bayes  
 - [ ] Support Vector Machine (SVM)  
 - [ ] K-Means Clustering  
 
